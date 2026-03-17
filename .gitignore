@@ -1,15 +1,6 @@
-# macOS
 .DS_Store
-
-# NetBeans generated files
 build/
 dist/
-
-# Logs
 derby.log
-
-# NetBeans private files
 nbproject/private/
-
-# Compiled classes
 *.class
