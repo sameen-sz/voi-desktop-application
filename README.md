@@ -42,11 +42,11 @@ Main entry point of the application showing system overview and navigation.
 ![Vehicle Table](screenshots/voiTable.png)  
 Displays all vehicles of interest stored in the database.
 
-![Add Vehicle](screenshots/voiNewVehRecord.png)  
+![Vehicle Added](screenshots/voiAddVehicle.png)  
 User enters a new vehicle record. Pop up prompts the user to enter License Plate for the new vehicle record. Similarly, user is prompted to enter information into all other fields for the record. 
 
-![Vehicle Added](screenshots/voiAddVehicle.png)  
-Vehicle successfully added to the system.
+![Add Vehicle](screenshots/voiNewVehRecord.png)  
+New Vehicle has been successfully added to the system.
 
 ![Edit Vehicle](screenshots/voiVehicleEdited.png)  
 Existing vehicle record updated. User selects a vehicle and clicks on 'Edit Vehicle'. User is prompted to edit vehicle information similar to the prompts to add a new vehicle. 
