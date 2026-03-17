@@ -87,6 +87,8 @@ Model successfully added.
 ![Delete Model](screenshots/delModelConf.png)  
 Confirmation before deleting a model.
 
+Clicking on 'Logout' closes the application.
+
 ---
 
 ### Additional UI
