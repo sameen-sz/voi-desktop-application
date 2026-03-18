@@ -1,3 +1,11 @@
+##  Download Demo
+
+A demo build is available in the **Releases** section of this repository.
+
+Download the ZIP file, extract it, and run the application using: java -jar VOI_DesktopApp.jar
+
+Note: The database path may need to be updated for full functionality.
+
 # VOI Desktop Application
 
 Java Swing desktop application for managing Vehicles of Interest.
